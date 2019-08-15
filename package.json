@@ -1,0 +1,23 @@
+{
+  "name": "asana-notification",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/asana": "^0.14.35",
+    "@types/node": "^10.9.4",
+    "asana": "^0.16.1",
+    "dayjs": "^1.7.5"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2",
+    "prettier-cli": "^0.1.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
